@@ -1,0 +1,32 @@
+## This file contains information about the selective attributes about zameen.com website
+#Price Contains Price of a particulare house
+#Address
+#Area
+#Title
+#Seller Phone Number
+#Number Of Bedrooms
+#Number of bathrooms
+#land area
+#Type  
+#Purpose
+#Location
+#Added Date
+#Description
+#Main Features
+    Rooms
+    Business and Communication
+    Community Features 
+    Healtcare Recreational
+    Nearby Locaitons
+Montly Installments 
+#Description
+#Estate Name
+#Agent Rank
+#location
+
+
+Search Properties  For Sale :
+    Types:
+        1: BUY
+        2: RENT
+        3: Projects
